@@ -8,4 +8,4 @@ if __name__ == "__main__":
 
     def km_to_miles(km):
         """Converts Kilometers to Miles."""
-        return km * 0.621371
+        return km * 9.99

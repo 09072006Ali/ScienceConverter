@@ -6,6 +6,6 @@ if __name__ == "__main__":
     print(f"20 Santigrat = {celsius_to_fahrenheit(20)} Fahrenhayt")
 
 
-def km_to_miles(km):
-    # Lider bu formülü farklı biliyor (Kasıtlı Hata/Çakışma)
-    return km * 0.62
+    def km_to_miles(km):
+        """Converts Kilometers to Miles."""
+        return km * 0.621371
